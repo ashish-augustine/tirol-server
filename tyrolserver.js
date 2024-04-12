@@ -5,7 +5,7 @@ const port = 3000;
 // Define a route to handle GET requests to the root URL
 app.get("/", (req, res) => {
   // Create a JSON object with the message
-  const message = { message: "Hello, world!" };
+  const message = { message: "Hello, Tyrol!" };
 
   // Send the JSON response
   res.json(message);
