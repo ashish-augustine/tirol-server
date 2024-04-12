@@ -1,4 +1,4 @@
-#create a nodejs server project in vscode
+# create a nodejs server project in vscode
 
 npm init -y
 npm install express
