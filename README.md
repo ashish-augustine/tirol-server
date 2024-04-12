@@ -6,6 +6,8 @@ create file tyrolserver.js
 node tyrolserver.js
 
 
+# upload in github 
+
 
 # In render.com
 Build command: npm install express
